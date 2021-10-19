@@ -1,0 +1,665 @@
+[
+    {
+    "ID": "111801001",
+    "Name": "Alizabeth",
+    "Year of Batch": "2018",
+    "College ID": "10001",
+    "Skills":["C++, C, Python, ML, OS"]
+    }
+    ,{
+        "ID":"111801002",
+        "Name":"Albert",
+        "Year of Batch": "2020",
+        "College ID": "10001",
+        "Skills":["C++, C, OS"]
+    }
+    ,{
+        "ID":"111801003",
+        "Name":"Sunny",
+        "Year of Batch": "2019",
+        "College ID": "10001",
+        "Skills":["C++, C, OS, Networks"]
+    },{
+        "ID":"111801004",
+        "Name":"Mahima",
+        "Year of Batch": "2021",
+        "College ID": "10001",
+        "Skills":["C++, C, OS, Full Stack Dev"]
+    },{
+        "ID":"111801005",
+        "Name":"Jigyasa",
+        "Year of Batch": "2017",
+        "College ID": "10001",
+        "Skills":["C++, C, OS, IOS Dev., OOPS"]
+    },{
+        "ID":"111801006",
+        "Name":"Krishnan",
+        "Year of Batch": "2017",
+        "College ID": "10002",
+        "Skills":["C++, C, Compiler, Graphics Designing"]
+    },{
+        "ID":"111801007",
+        "Name":"Bhakti",
+        "Year of Batch": "2018",
+        "College ID": "10002",
+        "Skills":["C++, C, OS, React, Node, MongoDB"]
+    },{
+        "ID":"111801008",
+        "Name":"Muskan",
+        "Year of Batch": "2019",
+        "College ID": "10002",
+        "Skills":["C++, C, OS, MySql, Node, Express, Java"]
+    },{
+        "ID":"111801009",
+        "Name":"Akshi",
+        "Year of Batch": "2020",
+        "College ID": "10002",
+        "Skills":["C++, C, OS, JS, Angular, QA"]
+    },{
+        "ID":"111801010",
+        "Name":"Rohit",
+        "Year of Batch": "2021",
+        "College ID": "10002",
+        "Skills":["C++, C, OS"]
+    },{
+        "ID":"111801011",
+        "Name":"Shreya",
+        "Year of Batch": "2017",
+        "College ID": "10003",
+        "Skills":["C++, C, OS"]
+    },{
+        "ID":"111801012",
+        "Name":"Shreya",
+        "Year of Batch": "2018",
+        "College ID": "10003",
+        "Skills":["C++, C, OS"]
+    },{
+        "ID":"111801013",
+        "Name":"Devendra",
+        "Year of Batch": "2019",
+        "College ID": "10003",
+        "Skills":["C++, C, OS"]
+    },{
+        "ID":"111801014",
+        "Name":"Ambarish",
+        "Year of Batch": "2020",
+        "College ID": "10003",
+        "Skills":["C++, C, OS"]
+    },{
+        "ID":"111801015",
+        "Name":"Harsh",
+        "Year of Batch": "2021",
+        "College ID": "10003",
+        "Skills":["C++, C, OS"]
+    },{
+        "ID":"111801016",
+        "Name":"Vedant",
+        "Year of Batch": "2017",
+        "College ID": "10004",
+        "Skills":["C++, C, OS"]
+    },{
+        "ID":"111801017",
+        "Name":"Vishal",
+        "Year of Batch": "2018",
+        "College ID": "10004",
+        "Skills":["C++, C, OS"]
+    },{
+        "ID":"111801018",
+        "Name":"Albert2",
+        "Year of Batch": "2019",
+        "College ID": "10004",
+        "Skills":["C++, C, OS"]
+    },{
+        "ID":"111801019",
+        "Name":"Albert3",
+        "Year of Batch": "2020",
+        "College ID": "10004",
+        "Skills":["C++, C, OS"]
+    },{
+        "ID":"111801020",
+        "Name":"Albert3",
+        "Year of Batch": "2021",
+        "College ID": "10004",
+        "Skills":["C++, C, OS"]
+    },{
+        "ID":"111801021",
+        "Name":"Albert4",
+        "Year of Batch": "2017",
+        "College ID": "10005",
+        "Skills":["C++, C, OS"]
+    },{
+        "ID":"111801022",
+        "Name":"Albert5",
+        "Year of Batch": "2018",
+        "College ID": "10005",
+        "Skills":["C++, C, OS"]
+    },{
+        "ID":"111801023",
+        "Name":"Albert6",
+        "Year of Batch": "2019",
+        "College ID": "10005",
+        "Skills":["C++, C, OS"]
+    },{
+        "ID":"111801024",
+        "Name":"Harsh2",
+        "Year of Batch": "2020",
+        "College ID": "10005",
+        "Skills":["C++, C, OS"]
+    },{
+        "ID":"111801025",
+        "Name":"Harsh3",
+        "Year of Batch": "2021",
+        "College ID": "10005",
+        "Skills":["C++, C, OS"]
+    },{
+        "ID":"111801026",
+        "Name":"Harsh4",
+        "Year of Batch": "2017",
+        "College ID": "10006",
+        "Skills":["C++, C, OS"]
+    },{
+        "ID":"111801027",
+        "Name":"Rohit1",
+        "Year of Batch": "2018",
+        "College ID": "10006",
+        "Skills":["C++, C, OS"]
+    },{
+        "ID":"111801028",
+        "Name":"Rohit2",
+        "Year of Batch": "2019",
+        "College ID": "10006",
+        "Skills":["C++, C, OS"]
+    },{
+        "ID":"111801029",
+        "Name":"Rohit3",
+        "Year of Batch": "2020",
+        "College ID": "10006",
+        "Skills":["C++, C, OS"]
+    },{
+        "ID":"111801030",
+        "Name":"Rohit4",
+        "Year of Batch": "2021",
+        "College ID": "10006",
+        "Skills":["C++, C, OS"]
+    },{
+        "ID":"111801031",
+        "Name":"Dev1",
+        "Year of Batch": "2017",
+        "College ID": "10007",
+        "Skills":["C++, C, OS"]
+    },{
+        "ID":"111801032",
+        "Name":"Dev2",
+        "Year of Batch": "2018",
+        "College ID": "10007",
+        "Skills":["C++, C, OS"]
+    },{
+        "ID":"111801033",
+        "Name":"Dev3",
+        "Year of Batch": "2019",
+        "College ID": "10007",
+        "Skills":["C++, C, OS"]
+    },{
+        "ID":"111801034",
+        "Name":"Dev4",
+        "Year of Batch": "2020",
+        "College ID": "10007",
+        "Skills":["C++, C, OS"]
+    },{
+        "ID":"111801035",
+        "Name":"Dev5",
+        "Year of Batch": "2021",
+        "College ID": "10007",
+        "Skills":["C++, C, OS"]
+    },{
+        "ID":"111801036",
+        "Name":"Ambarish1",
+        "Year of Batch": "2017",
+        "College ID": "10008",
+        "Skills":["C++, C, OS"]
+    },{
+        "ID":"111801037",
+        "Name":"Ambarish2",
+        "Year of Batch": "2018",
+        "College ID": "10008",
+        "Skills":["C++, C, OS"]
+    },{
+        "ID":"111801038",
+        "Name":"Ambarish3",
+        "Year of Batch": "2019",
+        "College ID": "10008",
+        "Skills":["C++, C, OS"]
+    },{
+        "ID":"111801039",
+        "Name":"Ambarish4",
+        "Year of Batch": "2020",
+        "College ID": "10008",
+        "Skills":["C++, C, OS"]
+    },{
+        "ID":"111801040",
+        "Name":"Ambarish5",
+        "Year of Batch": "2021",
+        "College ID": "10008",
+        "Skills":["C++, C, OS"]
+    },{
+        "ID":"111801041",
+        "Name":"Shailee1",
+        "Year of Batch": "2017",
+        "College ID": "10009",
+        "Skills":["C++, C, OS"]
+    },{
+        "ID":"111801042",
+        "Name":"Shailee2",
+        "Year of Batch": "2018",
+        "College ID": "10009",
+        "Skills":["C++, C, OS"]
+    },{
+        "ID":"111801043",
+        "Name":"Shailee3",
+        "Year of Batch": "2019",
+        "College ID": "10009",
+        "Skills":["C++, C, OS"]
+    },{
+        "ID":"111801044",
+        "Name":"Shailee4",
+        "Year of Batch": "2020",
+        "College ID": "10009",
+        "Skills":["C++, C, OS"]
+    },{
+        "ID":"111801045",
+        "Name":"Shailee5",
+        "Year of Batch": "2021",
+        "College ID": "10009",
+        "Skills":["C++, C, OS"]
+    },{
+        "ID":"111801046",
+        "Name":"Palak1",
+        "Year of Batch": "2017",
+        "College ID": "10010",
+        "Skills":["C++, C, OS"]
+    },{
+        "ID":"111801047",
+        "Name":"Palak2",
+        "Year of Batch": "2018",
+        "College ID": "10010",
+        "Skills":["C++, C, OS"]
+    },{
+        "ID":"111801048",
+        "Name":"Palak3",
+        "Year of Batch": "2019",
+        "College ID": "10010",
+        "Skills":["C++, C, OS"]
+    },{
+        "ID":"111801049",
+        "Name":"Palak4",
+        "Year of Batch": "2020",
+        "College ID": "10010",
+        "Skills":["C++, C, OS"]
+    },{
+        "ID":"111801050",
+        "Name":"Palak5",
+        "Year of Batch": "2021",
+        "College ID": "10010",
+        "Skills":["C++, C, OS"]
+    },{
+        "ID":"111801051",
+        "Name":"Pihu1",
+        "Year of Batch": "2017",
+        "College ID": "10011",
+        "Skills":["C++, C, OS"]
+    },{
+        "ID":"111801052",
+        "Name":"Pihu2",
+        "Year of Batch": "2018",
+        "College ID": "10011",
+        "Skills":["C++, C, OS"]
+    },{
+        "ID":"111801053",
+        "Name":"Pihu3",
+        "Year of Batch": "2019",
+        "College ID": "10011",
+        "Skills":["C++, C, OS"]
+    },{
+        "ID":"111801054",
+        "Name":"Pihu4",
+        "Year of Batch": "2020",
+        "College ID": "10011",
+        "Skills":["C++, C, OS"]
+    },{
+        "ID":"111801055",
+        "Name":"Pihu5",
+        "Year of Batch": "2021",
+        "College ID": "10011",
+        "Skills":["C++, C, OS"]
+    },{
+        "ID":"111801056",
+        "Name":"Priyanshi1",
+        "Year of Batch": "2017",
+        "College ID": "10012",
+        "Skills":["C++, C, OS"]
+    },{
+        "ID":"111801057",
+        "Name":"Priyanshi2",
+        "Year of Batch": "2018",
+        "College ID": "10012",
+        "Skills":["C++, C, OS"]
+    },{
+        "ID":"111801058",
+        "Name":"Priyanshi3",
+        "Year of Batch": "2019",
+        "College ID": "10012",
+        "Skills":["C++, C, OS"]
+    },{
+        "ID":"111801059",
+        "Name":"Priyanshi4",
+        "Year of Batch": "2020",
+        "College ID": "10012",
+        "Skills":["C++, C, OS"]
+    },{
+        "ID":"111801060",
+        "Name":"Priyanshi5",
+        "Year of Batch": "2021",
+        "College ID": "10012",
+        "Skills":["C++, C, OS"]
+    },{
+        "ID":"111801061",
+        "Name":"Krithika1",
+        "Year of Batch": "2017",
+        "College ID": "10013",
+        "Skills":["C++, C, OS"]
+    },{
+        "ID":"111801062",
+        "Name":"Krithika2",
+        "Year of Batch": "2018",
+        "College ID": "10013",
+        "Skills":["C++, C, OS"]
+    },{
+        "ID":"111801063",
+        "Name":"Krithika3",
+        "Year of Batch": "2019",
+        "College ID": "10013",
+        "Skills":["C++, C, OS"]
+    },{
+        "ID":"111801064",
+        "Name":"Krithika4",
+        "Year of Batch": "2020",
+        "College ID": "10013",
+        "Skills":["C++, C, OS"]
+    },{
+        "ID":"111801065",
+        "Name":"Krithika5",
+        "Year of Batch": "2021",
+        "College ID": "10013",
+        "Skills":["C++, C, OS"]
+    },{
+        "ID":"111801066",
+        "Name":"Gaga1",
+        "Year of Batch": "2017",
+        "College ID": "10014",
+        "Skills":["C++, C, OS"]
+    },{
+        "ID":"111801067",
+        "Name":"Gaga2",
+        "Year of Batch": "2018",
+        "College ID": "10014",
+        "Skills":["C++, C, OS"]
+    },{
+        "ID":"111801068",
+        "Name":"Gaga3",
+        "Year of Batch": "2019",
+        "College ID": "10014",
+        "Skills":["C++, C, OS"]
+    },{
+        "ID":"111801069",
+        "Name":"Gaga4",
+        "Year of Batch": "2020",
+        "College ID": "10014",
+        "Skills":["C++, C, OS"]
+    },{
+        "ID":"111801070",
+        "Name":"Gaga5",
+        "Year of Batch": "2021",
+        "College ID": "10014",
+        "Skills":["C++, C, OS"]
+    },{
+        "ID":"111801071",
+        "Name":"Vamika1",
+        "Year of Batch": "2017",
+        "College ID": "10015",
+        "Skills":["C++, C, OS"]
+    },{
+        "ID":"111801072",
+        "Name":"Vamika2",
+        "Year of Batch": "2018",
+        "College ID": "10015",
+        "Skills":["C++, C, OS"]
+    },{
+        "ID":"111801073",
+        "Name":"Vamika3",
+        "Year of Batch": "2019",
+        "College ID": "10015",
+        "Skills":["C++, C, OS"]
+    },{
+        "ID":"111801074",
+        "Name":"Vamika4",
+        "Year of Batch": "2020",
+        "College ID": "10015",
+        "Skills":["C++, C, OS"]
+    },{
+        "ID":"111801075",
+        "Name":"Vamika5",
+        "Year of Batch": "2021",
+        "College ID": "10015",
+        "Skills":["C++, C, OS"]
+    },{
+        "ID":"111801076",
+        "Name":"Sanorita1",
+        "Year of Batch": "2017",
+        "College ID": "10016",
+        "Skills":["C++, C, OS"]
+    },{
+        "ID":"111801077",
+        "Name":"Sanorita2",
+        "Year of Batch": "2018",
+        "College ID": "10016",
+        "Skills":["C++, C, OS"]
+    },{
+        "ID":"111801078",
+        "Name":"Sanorita3",
+        "Year of Batch": "2019",
+        "College ID": "10016",
+        "Skills":["C++, C, OS"]
+    },{
+        "ID":"111801079",
+        "Name":"Sanorita4",
+        "Year of Batch": "2020",
+        "College ID": "10016",
+        "Skills":["C++, C, OS"]
+    },{
+        "ID":"111801080",
+        "Name":"Sanorita5",
+        "Year of Batch": "2021",
+        "College ID": "10016",
+        "Skills":["C++, C, OS"]
+    },{
+        "ID":"111801081",
+        "Name":"Sakshi1",
+        "Year of Batch": "2017",
+        "College ID": "10017",
+        "Skills":["C++, C, OS"]
+    },{
+        "ID":"111801082",
+        "Name":"Sakshi2",
+        "Year of Batch": "2018",
+        "College ID": "10017",
+        "Skills":["C++, C, OS"]
+    },{
+        "ID":"111801083",
+        "Name":"Sakshi3",
+        "Year of Batch": "2019",
+        "College ID": "10017",
+        "Skills":["C++, C, OS"]
+    },{
+        "ID":"111801084",
+        "Name":"Sakshi4",
+        "Year of Batch": "2020",
+        "College ID": "10017",
+        "Skills":["C++, C, OS"]
+    },{
+        "ID":"111801085",
+        "Name":"Sakshi5",
+        "Year of Batch": "2021",
+        "College ID": "10017",
+        "Skills":["C++, C, OS"]
+    },{
+        "ID":"111801086",
+        "Name":"Shruti1",
+        "Year of Batch": "2017",
+        "College ID": "10018",
+        "Skills":["C++, C, OS"]
+    },{
+        "ID":"111801087",
+        "Name":"Shruti2",
+        "Year of Batch": "2018",
+        "College ID": "10018",
+        "Skills":["C++, C, OS"]
+    },{
+        "ID":"111801088",
+        "Name":"Shruti3",
+        "Year of Batch": "2018",
+        "College ID": "10018",
+        "Skills":["C++, C, OS"]
+    },{
+        "ID":"111801089",
+        "Name":"Shruti4",
+        "Year of Batch": "2019",
+        "College ID": "10018",
+        "Skills":["C++, C, OS"]
+    },{
+        "ID":"111801090",
+        "Name":"Shruti5",
+        "Year of Batch": "2019",
+        "College ID": "10018",
+        "Skills":["C++, C, OS"]
+    },{
+        "ID":"111801091",
+        "Name":"Angela1",
+        "Year of Batch": "2017",
+        "College ID": "10019",
+        "Skills":["C++, C, OS"]
+    },{
+        "ID":"111801092",
+        "Name":"Angela2",
+        "Year of Batch": "2018",
+        "College ID": "10019",
+        "Skills":["C++, C, OS"]
+    },{
+        "ID":"111801093",
+        "Name":"Angela3",
+        "Year of Batch": "2019",
+        "College ID": "10019",
+        "Skills":["C++, C, OS"]
+    },{
+        "ID":"111801094",
+        "Name":"Angela4",
+        "Year of Batch": "2020",
+        "College ID": "10019",
+        "Skills":["C++, C, OS"]
+    },{
+        "ID":"111801095",
+        "Name":"Angela5",
+        "Year of Batch": "2021",
+        "College ID": "10019",
+        "Skills":["C++, C, OS"]
+    },{
+        "ID":"111801096",
+        "Name":"Yan1",
+        "Year of Batch": "2017",
+        "College ID": "10020",
+        "Skills":["C++, C, OS"]
+    },{
+        "ID":"111801097",
+        "Name":"Ya2",
+        "Year of Batch": "2018",
+        "College ID": "10020",
+        "Skills":["C++, C, OS"]
+    },{
+        "ID":"111801098",
+        "Name":"Yan3",
+        "Year of Batch": "2019",
+        "College ID": "10020",
+        "Skills":["C++, C, OS"]
+    },{
+        "ID":"111801099",
+        "Name":"Yan4",
+        "Year of Batch": "2020",
+        "College ID": "10020",
+        "Skills":["C++, C, OS"]
+    },{
+        "ID":"111801100",
+        "Name":"Yan5",
+        "Year of Batch": "2021",
+        "College ID": "10020",
+        "Skills":["C++, C, OS"]
+    },{
+        "ID":"111801101",
+        "Name":"Jack1",
+        "Year of Batch": "1017",
+        "College ID": "10021",
+        "Skills":["C++, C, OS"]
+    },{
+        "ID":"111801102",
+        "Name":"Jack2",
+        "Year of Batch": "1018",
+        "College ID": "10021",
+        "Skills":["C++, C, OS"]
+    },{
+        "ID":"111801103",
+        "Name":"Jack3",
+        "Year of Batch": "1019",
+        "College ID": "10021",
+        "Skills":["C++, C, OS"]
+    },{
+        "ID":"111801104",
+        "Name":"Jack4",
+        "Year of Batch": "1020",
+        "College ID": "10021",
+        "Skills":["C++, C, OS"]
+    },{
+        "ID":"111801105",
+        "Name":"Jack5",
+        "Year of Batch": "1021",
+        "College ID": "10021",
+        "Skills":["C++, C, OS"]
+    },{
+        "ID":"111801106",
+        "Name":"Jerry1",
+        "Year of Batch": "1017",
+        "College ID": "10022",
+        "Skills":["C++, C, OS"]
+    },{
+        "ID":"111801107",
+        "Name":"Jerry2",
+        "Year of Batch": "1018",
+        "College ID": "10022",
+        "Skills":["C++, C, OS"]
+    },{
+        "ID":"111801108",
+        "Name":"Jerry3",
+        "Year of Batch": "1018",
+        "College ID": "10022",
+        "Skills":["C++, C, OS"]
+    },{
+        "ID":"111801109",
+        "Name":"Jerry4",
+        "Year of Batch": "1019",
+        "College ID": "10022",
+        "Skills":["C++, C, OS"]
+    },{
+        "ID":"111801110",
+        "Name":"Jerry5",
+        "Year of Batch": "1019",
+        "College ID": "10022",
+        "Skills":["C++, C, OS"]
+    }
+]

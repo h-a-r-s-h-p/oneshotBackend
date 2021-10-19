@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- SYNTAX to print variable :: here variable is title -->
+    <!-- value of variable title is coming from js -->
+    <title> Details </title>
+
+    <script src="https://kit.fontawesome.com/3a58c2c523.js" crossorigin="anonymous"></script>
+
+    <!-- our script needs to be at the end of all -->
+    <!-- here the path is relative to "assets" Why it is so?? bcz we have already mentioned it inside middleware (static) -->
+    <!-- <link rel="stylesheet" href="/css/home.css"> -->
+</head>
+
+<body>
+    <div id="link">
+        <a href="/">Home</a>
+    </div>
+
+    <h1 id="page-heading">
+        Details of the College
+    </h1>
+
+    <% for(let c of college_list) { %>
+        <div id="each-college">
+            <div>
+                ID: <%= c.ID %>
+            </div>
+            <div>
+                Name: <%= c.name %>
+            </div>
+            <div>
+                Year: <%= c.year_founded %>
+            </div>
+            <div>
+                City: <%= c.city %>
+            </div>
+            <div>
+                State: <%= c.state %>
+            </div>
+            <div>
+                Country: <%= c.country %>
+            </div>
+            <div>
+                No. of Students: <%= c.no_of_students %>
+            </div>
+            <div>
+                Courses: <%= c.courses %>
+            </div>
+            
+        </div>
+        <br>
+    <% } %>
+</body>
+
+</html>
