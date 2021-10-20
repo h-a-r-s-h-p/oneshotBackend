@@ -86,7 +86,7 @@ app.get("/charts", function (req, res) {
   });
 });
 
-app.listen(port, function (err) {
+app.listen(process.env.PORT || port, function (err) {
   if (err) {
     console.log("Error: ", err);
   }
