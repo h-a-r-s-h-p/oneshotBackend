@@ -17,13 +17,29 @@ app.set("views", path.join(__dirname, "views"));
 app.use(express.urlencoded()); // middleware  // parser => It reads only form data which has been submitted, NOT query params
 app.use(express.static("assets")); // middleware   // all static files
 
+const clg = require("./college.json");
+
 app.get("/", function (req, res) {
   console.log("rendering home");
+  College.deleteMany({}, function (err) {
+    if (err) {
+      console.log("Error in deleting: ", err);
+    } else {
+      console.log("Successfully deleted");
+    }
+  });
+  College.create(clg, function (err) {
+    if (err) {
+      console.log("Error in adding: ", err);
+    } else {
+      console.log("Successfully added");
+    }
+  });
   return res.render("home", {});
 });
 
 app.get("/form", function (req, res) {
-  console.log("rendering form");
+  // console.log("rendering form");
   actionName = req.query["act"];
   console.log(actionName);
   return res.render("form", {
@@ -32,7 +48,7 @@ app.get("/form", function (req, res) {
 });
 
 app.get("/details", function (req, res) {
-  console.log("rendering details");
+  // console.log("rendering details");
   let name = req.query.name;
   College.find({ name: name }, function (err, docs) {
     if (err) {
@@ -44,7 +60,7 @@ app.get("/details", function (req, res) {
 });
 
 app.get("/similar-colleges", function (req, res) {
-  console.log("rendering similar colleges");
+  // console.log("rendering similar colleges");
   //   console.log(req.query);
   let name = req.query.name;
 
@@ -60,7 +76,7 @@ app.get("/similar-colleges", function (req, res) {
 
 // FOR REACT
 app.get("/charts", function (req, res) {
-  console.log("opening charts");
+  // console.log("opening charts");
   College.find({}, function (err, docs) {
     if (err) {
       console.log("ERROR: ", err);
